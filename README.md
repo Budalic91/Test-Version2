@@ -1,5 +1,5 @@
 # Test-Version2
-# Version 2 with lazy loading (on scroll load new data but page reload and set on top of the page)
+# Version 2 with lazy loading 
 # Languages & tools
  - HTML,
  - Jquery v2.1.1,
